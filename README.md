@@ -29,4 +29,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## Patika
 
 [My Patika Profile!](https://app.patika.dev/sonerkrblt)
+
 ![patika](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
